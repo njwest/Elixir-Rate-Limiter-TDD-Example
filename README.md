@@ -1,10 +1,10 @@
 # RateLimiter
 
-This repo is a companion to the [Test-driven Development in Elixir: Building a Rate Limiter with ExRated, ExUnit, and Doctests]() 
+This repo is a companion to the [Test-driven Development in Elixir: Building a Rate Limiter with ExRated, ExUnit, and Doctests](https://njwest.medium.com/test-driven-development-in-elixir-building-a-rate-limiter-with-exrated-exunit-and-doctests-5c3f1e8c80fc) 
 guide by Nick West.
 
 Within, you will find an example rate limiter written in Elixir 
-with [ExRated](), unit tests, and doc tests.
+with [ExRated](https://github.com/grempe/ex_rated), unit tests, and doctests.
 
 ## Up and Running
 
