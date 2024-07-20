@@ -1,0 +1,4 @@
+%{
+  "ex2ms": {:hex, :ex2ms, "1.7.0", "45b9f523d0b777667ded60070d82d871a37e294f0b6c5b8eca86771f00f82ee1", [:mix], [], "hexpm", "2589eee51f81f1b1caa6d08c990b1ad409215fe6f64c73f73c67d36ed10be827"},
+  "ex_rated": {:hex, :ex_rated, "2.1.0", "d40e6fe35097b10222df2db7bb5dd801d57211bac65f29063de5f201c2a6aebc", [:mix], [{:ex2ms, "~> 1.5", [hex: :ex2ms, repo: "hexpm", optional: false]}], "hexpm", "936c155337253ed6474f06d941999dd3a9cf0fe767ec99a59f2d2989dc2cc13f"},
+}
