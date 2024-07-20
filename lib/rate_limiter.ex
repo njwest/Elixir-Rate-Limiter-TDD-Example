@@ -3,7 +3,6 @@ defmodule RateLimiter do
   A simple rate limiter.
   """
   require Logger # enables us to use Logger macros
-  alias ExRated # enables us to use ExRated's functions
 
   @login_request_limit 4 # login request limit per time window
   @time_window 600_000 # 10 minutes in milliseconds

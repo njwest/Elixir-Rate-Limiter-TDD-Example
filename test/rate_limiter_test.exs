@@ -1,7 +1,6 @@
 defmodule RateLimiterTest do
   use ExUnit.Case
   import ExUnit.CaptureLog
-  alias RateLimiter
 
   @test_email "test@example.com"
   @limit 2
